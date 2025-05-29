@@ -12,7 +12,7 @@ const sharedCapabilities = {
     'wdio:enforceWebDriverClassic': true // https://webdriver.io/blog/2024/08/15/webdriverio-v9-release/#new-features
 }
 const devicesCapabilities = {
-  'appium:udid': 'demo.smartdust.me:13090'
+  'appium:udid': 'public.smartdust.me:13090'
 }
 const opts = {
   path: '/',
