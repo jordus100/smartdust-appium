@@ -7,7 +7,7 @@ const sharedCapabilities = {
     'appium:adbExecTimeout': 30000
 }
 const devicesCapabilities = {
-    'appium:udid': 'public.smartdust.me:12174'
+    'appium:udid': 'public.smartdust.me:12891'
 }
 const opts = {
     path: '/',
