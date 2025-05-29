@@ -5,8 +5,8 @@
     "appium-uiautomator2-driver": "^4.2.3",
     "webdriverio": "^9.12.1"
   },
-  "devDependencies": {
-    "@appium/images-plugin": "^3.1.2",
-    "appium-espresso-driver": "^4.1.6"
+  "engines": {
+    "node": ">=20.9.0",
+    "npm": ">=10.1.0"
   }
 }
