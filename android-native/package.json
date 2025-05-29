@@ -3,5 +3,9 @@
     "appium": "^2.18.0",
     "appium-uiautomator2-driver": "^4.2.3",
     "webdriverio": "^9.12.1"
+  },
+  "engines": {
+    "node": ">=20.9.0",
+    "npm": ">=10.1.0"
   }
 }
